@@ -2,5 +2,3 @@
 primaryColor = "#F7C9CC"       # soft rose pink (buttons, sliders)
 backgroundColor = "#FFFFFF"    # white (page background)
 secondaryBackgroundColor = "#FDE1D9"  # light peach (widgets/sidebar)
-textColor = "#333333"          # dark gray text
-font = "sans serif"            # options: "sans serif", "serif", or "monospace"
